@@ -34,7 +34,7 @@ Use a live server (like the [Live Server extension for VSCode](https://marketpla
 
 ## 📸 Preview
 
-_You can add a screenshot named `preview.png` to visually demonstrate the calculator UI._
+![alt text](image.png)
 
 ```bash
 📁 Project Structure
