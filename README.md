@@ -1,4 +1,4 @@
-# 🔢 Modern JavaScript Calculator
+# 🔢 Never Ending Calculator
 
 A sleek, responsive calculator built with HTML, CSS, and JavaScript. Designed with a clean UI and support for keyboard interaction.
 
